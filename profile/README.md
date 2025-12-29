@@ -2,7 +2,7 @@
 
 ![Corex Team Logo](https://upload.wikimedia.org/wikipedia/commons/f/ff/Corex_Team.png)
 ## About
-The **Corex Team** is a volunteer-driven, international group of developers, testers, and contributors behind **Corex Linux**. Our mission is to maintain and develop a lightweight, Debian-based OS optimized for older hardware while providing a familiar, Windows-like desktop experience.
+The **Corex Team** is a volunteer-driven, international group of developers, testers, and contributors behind **Corex Linux**. Our mission is to maintain and develop a lightweight, best Linux Operating system optimized for older hardware while providing a familiar, Windows-like desktop experience.
 
 Currently, the team consists of only one active contributor, but we are **actively looking for collaborators** to join and help with:
 
